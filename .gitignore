@@ -1,0 +1,21 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+rag-env/
+env/
+venv/
+.venv/
+
+# VSCode, PyCharm
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore binary and local DB files - data folder
+personal_rag_assistant/data
